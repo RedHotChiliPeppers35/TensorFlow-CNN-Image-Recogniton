@@ -13,7 +13,6 @@ horse
 ship 
 truck
 
-
 The classes are completely mutually exclusive.
 There is no overlap between automobiles and trucks. 
 "Automobile" includes sedans, SUVs, things of that sort.
